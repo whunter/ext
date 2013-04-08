@@ -188,7 +188,7 @@ Ext.onReady(function(){
                             {
                                 title: 'Home',
                                 id: 'home-tab',
-                                autoLoad:'../home.html',
+                                autoLoad:'../docs/home.html',
                                 closable: false
                             }
                         ],
